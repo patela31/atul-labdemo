@@ -1,7 +1,7 @@
 ﻿<#
 .SYNOPSIS
 Through this Automation script you can schedule a specific Resource Group Azure VM at specific times for resizing. 
- 
+ Tested by Attila
  
  
 It is suggested that you run 2 schedules, for example: 
